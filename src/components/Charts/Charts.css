@@ -1,0 +1,11 @@
+.charts {
+    display: flex;
+    justify-content: center;
+    width: 70%;
+}
+
+@media (max-width: 770px) {
+    .charts {
+        width: 100%;
+    }
+}

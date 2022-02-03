@@ -1,0 +1,26 @@
+.cards {
+    margin: 50px 0;
+}
+
+.card {
+    margin: 0 2% !important;
+    border-radius: 15px !important;
+}
+
+.infected {
+    background-color: #219f94 !important;
+}
+
+.deaths {
+    background-color: #ce7879 !important;
+}
+
+.recovered {
+    background-color: #4f9e6e !important;
+}
+
+@media (max-width: 770px) {
+    .card {
+        margin: 3% 0 !important;
+    }
+}

@@ -1,0 +1,32 @@
+.footer {
+    padding: 3% 15%;
+}
+
+.fa-footer {
+    margin: 10px;
+    color: #4f8314;
+}
+
+.hr {
+    width: 100% !important;
+}
+
+h3 {
+    font-size: 16px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 770px) {
+    .fa-footer {
+        margin: 5px;
+    }
+    h3 {
+        font-size: 0.8rem;
+    }
+    .fa-footer {
+        font-size: 1.5rem;
+    }
+    h4 {
+        font-size: 1rem;
+    }
+}
